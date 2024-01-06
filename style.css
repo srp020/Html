@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Sarabun&display=swap');
+
+body
+{
+    font-family: 'Sarabun', sans-serif;
+}
+
+table
+{
+    border-collapse: collapse;
+}
+
+.borderless-right
+{
+    border-right-style: hidden;
+}
+
+.borderless-bottom
+{
+    border-bottom-style: hidden;
+}
